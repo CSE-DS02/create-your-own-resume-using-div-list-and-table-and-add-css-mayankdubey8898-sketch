@@ -1,0 +1,57 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: color #f4f4f4;
+    margin:0px;
+    padding:20px;
+}
+.resume-content{
+    width:800px;
+    margin:auto;
+    background-color:rgb(104, 151, 151);
+    padding:20px;
+    box-shadow:0 0 10px;
+}
+.header{
+    text-align:center;
+    border-bottom:2px solid;
+}
+.header h1{
+    margin:0;
+    color:rgb(47, 10, 82)
+}
+.header p{
+    margin:5px 0 0;
+     color:#555;
+}
+.section{
+    margin-bottom:20px;
+}
+.section h2{
+    color: #270369;
+    border-bottom:1px solid;
+    padding-bottom:5px;
+}
+ul{
+    list-style-type: disc;
+    margin-left:20px;   
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:10px;
+    background-color: #476381;
+}
+th{
+    background-color:#476381;
+
+}
+tr{
+   background-color:#2387bd;
+
+}
+.company{
+    font-style: italic;
+    color:#991515;
+    margin:0 0 5px 0;
+}
+
